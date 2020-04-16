@@ -1,0 +1,266 @@
+#corpo {
+	background-image: url(../img/fundo1.jpg);
+}
+
+.corpo {
+	margin: auto;
+	width: 750px;
+}
+
+h1 {
+	text-align: center;
+	font-family: Arial, sans-serif;
+	font-size: 50px;
+	font-weight: 800;
+	margin-top: 35px;
+	color: white;
+}
+
+h2 {
+	text-align: center;
+	font-family: Arial, sans-serif;
+	font-size: 40px;
+	font-weight: 800;
+	margin-top: -30px;
+	color: white;
+}
+
+.Grupo{
+	font-family: Arial, Times, sans-serif;
+	font-size: 35px;
+	font-weight: 400;
+	color: #F5FFFA;
+	background-color: #FFD700;
+}
+
+
+table {
+	font-family: Arial, Times, sans-serif;
+	font-size: 15px;
+	height: 200px;
+	width: 870px;
+	border-collapse: collapse;
+	margin-left: -75px;
+
+}
+
+td {
+	background: #F5FFFA;
+    padding: 3px;
+    padding-bottom: 0px;
+    text-align: justify;
+    border-bottom: 1px solid black ;
+}
+
+.nomedetime {
+	border-bottom: none;
+	line-height: 30px;
+	height: 15px;
+    width: 235px;
+    padding-left: 20px;
+    padding-right: 20px;
+   	font-family: Impact, Arial, sans-serif;
+   	font-size: 29px;
+   	font-weight:300;
+   	color: black;
+   	letter-spacing: 1px;
+}
+
+.fim {
+	width: 10px;
+	border-bottom: none;
+}
+
+.semana {
+	text-align: left;
+}
+
+.hora {
+	color: #FF8C00;
+	padding-left: 0.5px;
+	font-weight: 600;
+}
+
+.time1 {
+	text-align: right;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.Versus {
+	font-weight: bold;
+	font-size: 15px;
+}
+
+.time2 {
+	padding-left: 0.5px;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.local {
+	text-align: left;
+	padding-left: 19px;
+	color: #B22222;
+	font-size: 17px;
+	width: 150px;
+}
+
+.russia {
+	list-style:none;
+ 	list-style-image: url(../img/bandeiras/russia.png);
+}
+
+.Arabia {
+	list-style:none;
+	list-style-image: url(../img/bandeiras/arabia.png);
+}
+
+.Egito {
+	list-style:none;
+	list-style-image: url(../img/bandeiras/egito.png);
+}
+
+.Uruguai {
+	list-style:none;
+	list-style-image: url(../img/bandeiras/uruguai.png);
+}
+
+.Portugal {
+	list-style:none;
+	list-style-image: url(../img/bandeiras/portugal.png);
+}
+
+.Espanha {
+	list-style:none;
+	list-style-image: url(../img/bandeiras/espanha.png);
+}
+
+.Marrocos {
+	list-style:none;
+	list-style-image: url(../img/bandeiras/marrocos.png);
+}
+
+.Ira {
+	list-style:none;
+	list-style-image: url(../img/bandeiras/ira.png);
+}
+
+.França {
+	list-style:none;
+	list-style-image: url(../img/bandeiras/franca.png);
+}
+
+.Australia {
+	list-style:none;
+	list-style-image: url(../img/bandeiras/australia.png);
+}
+.Peru {
+	list-style:none;
+	list-style-image: url(../img/bandeiras/peru.png);
+}
+
+.Dinamarca {
+	list-style:none;
+	list-style-image: url(../img/bandeiras/dinamarca.png);
+}
+
+.Argentina {
+	list-style:none;
+	list-style-image: url(../img/bandeiras/argentina.png);
+}
+
+.Islândia {
+	list-style:none;
+	list-style-image: url(../img/bandeiras/islandia.png);
+}
+
+.Croácia {
+	list-style:none;
+	list-style-image: url(../img/bandeiras/croacia.png);
+}
+
+.Nigéria {
+	list-style:none;
+	list-style-image: url(../img/bandeiras/nigeria.png);
+}
+
+.Brasil {
+	list-style:none;
+	list-style-image: url(../img/bandeiras/brasil.png);
+}
+
+.Suíça {
+	list-style:none;
+	list-style-image: url(../img/bandeiras/suica.png);
+}
+
+.Costa-Rica {
+	list-style:none;
+	list-style-image: url(../img/bandeiras/costarica.png);
+}
+
+.Sérvia {
+	list-style:none;
+	list-style-image: url(../img/bandeiras/servia.png);
+}
+
+.Alemanha {
+	list-style:none;
+	list-style-image: url(../img/bandeiras/alemanha.png);
+}
+
+.México {
+	list-style:none;
+	list-style-image: url(../img/bandeiras/mexico.png);
+}
+
+.Suécia {
+	list-style:none;
+	list-style-image: url(../img/bandeiras/suecia.png);
+}
+
+.Coreia-do-Sul {
+	list-style:none;
+	list-style-image: url(../img/bandeiras/coreia.png);
+}
+
+.Bélgica {
+	list-style:none;
+	list-style-image: url(../img/bandeiras/belgica.png);
+}
+
+.Panamá {
+	list-style:none;
+	list-style-image: url(../img/bandeiras/panama.png);
+}
+
+.Tunísia {
+	list-style:none;
+	list-style-image: url(../img/bandeiras/tunisia.png);
+}
+
+.Inglaterra {
+	list-style:none;
+	list-style-image: url(../img/bandeiras/inglaterra.png);
+}
+
+.Polônia {
+	list-style:none;
+	list-style-image: url(../img/bandeiras/polonia.png);
+}
+
+.Senegal {
+	list-style:none;
+	list-style-image: url(../img/bandeiras/senegal.png);
+}
+
+.Colômbia {
+	list-style:none;
+	list-style-image: url(../img/bandeiras/colombia.png);
+}
+
+.Japão {
+	list-style:none;
+	list-style-image: url(../img/bandeiras/japao.png);
+}
